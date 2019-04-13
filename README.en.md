@@ -1,4 +1,4 @@
-# Java项目
+# 酒店管理系统
 
 #### Description
 原创JAVA代码
